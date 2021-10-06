@@ -1,0 +1,10 @@
+discord.py
+python-dotenv
+discord.ext
+discord
+commands
+wget
+YoutubeDL
+youtube_dl
+datetime
+random
