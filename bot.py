@@ -111,4 +111,4 @@ async def game(ctx):
 
 
 client.add_cog(music_cog(client))
-client.run('ODk0MDI5ODExMjEzODA3NjI2.YVkEJQ.naxgjmCfv5Yr4H9leaHBqkAV73w')
+client.run('YOUR TOKEN')
